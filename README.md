@@ -1,2 +1,2 @@
 # Line-Drawing
-DAA Bresenham
+DAA and Bresenham
